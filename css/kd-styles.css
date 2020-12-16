@@ -1,0 +1,58 @@
+.text-muted{
+    color: #666;
+    font-size: 0.5em;
+}
+
+.text-more-muted{
+    color: #666;
+    font-size: 0.4em;
+}
+
+.img-30pw{
+    width:30%;
+    height: auto;
+}
+
+.img-20pw{
+    width:20%;
+    height: auto;
+}
+
+.img-40pw{
+    width:40%;
+    height: auto;
+}
+
+.img-50pw{
+    width:50%;
+    height: auto;
+}
+
+.img-ref{
+    color: #444;
+    font-size: 0.3em;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-green{
+    color: #41ead4 !important;
+}
+
+.text-yellow{
+    color: #fbff12 !important;
+}
+
+.text-pink{
+    color: #ff206e !important;
+}
+
+.text-white{
+    color: #ffffff !important;
+}
+
+.text-gray{
+    color: #666;
+}
